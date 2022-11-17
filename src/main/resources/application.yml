@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: email-api
+  mvc:
+    pathmatch:
+      matching-strategy: ANT_PATH_MATCHER
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: ${mailUsername:}
+    password: ${mailPassword:}
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+server:
+  port: ${app_port:3001}
+  servlet:
+    context-path: /api/v1
+servlet:
+  multipart:
+    max-file-size: 10MB
+    max-request-size: 10MB

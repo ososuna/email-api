@@ -3,6 +3,10 @@
 
 <img width="300" src="https://media.giphy.com/media/26ufeYWInLG5hBv9e/giphy.gif"/>
 
+# Email APP
+This API is consumed by the Email APP. You can find the Email APP here:
+https://github.com/ososuna/email-app.git
+
 ## Requirements
 For building and running the application you need:
 

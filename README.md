@@ -1,5 +1,5 @@
-# Spring Book
-Email API with Java Spring
+# Email API
+✉️ Email API with Java Spring
 
 ## What is this?
 A Simple Email API

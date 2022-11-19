@@ -4,10 +4,9 @@ Email API with Java Spring
 ## What is this?
 A Simple Email API
 
-<br>
 <img width="300" src="https://media.giphy.com/media/26ufeYWInLG5hBv9e/giphy.gif"/>
-## Requirements
 
+## Requirements
 For building and running the application you need:
 
 - [JDK 11.0](https://www.oracle.com/mx/java/technologies/javase/jdk11-archive-downloads.html)

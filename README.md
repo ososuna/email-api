@@ -1,9 +1,6 @@
 # Email API
 ✉️ Email API with Java Spring
 
-## What is this?
-A Simple Email API
-
 <img width="300" src="https://media.giphy.com/media/26ufeYWInLG5hBv9e/giphy.gif"/>
 
 ## Requirements
